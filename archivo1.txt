@@ -1,1 +1,2 @@
-Modificación 1
+Autor:Jefe
+En este archivo se trabaja en forma colaborativa.git
